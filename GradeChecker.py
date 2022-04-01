@@ -4,9 +4,9 @@ markTwo = int(input())
 markThree = int(input())
 markFour = int(input())
 markFive = int(input())
-
-tot = markOne+markTwo+markThree+markFour+markFive
-avg = tot/5
+s = int(input()) ss = int(input()) e = int(input())
+tot = markOne+markTwo+markThree+markFour+markFive+s+ss+e
+avg = tot/8
 
 if avg>=91 and avg<=100:
     print("Your Grade is A1")
