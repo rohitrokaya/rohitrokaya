@@ -1,4 +1,4 @@
-print("Enter Marks Obtained in 5 Subjects: ")
+print("Enter Marks Obtained in 8 Subjects: ")
 markOne = int(input())
 markTwo = int(input())
 markThree = int(input())
